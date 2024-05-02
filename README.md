@@ -1,4 +1,4 @@
-![dsa-repo-banner](https://github.com/Surveinit/DSA-in-Python/assets/120928723/0036cbfa-7e90-4242-868f-12faa1b2c8bc)
+![dsa-repo-banner](https://github.com/Surveinit/DSA-in-Python/assets/120928723/c0cbc83a-c9f2-4fcc-bb1a-b46efc044c32)
 ## Data Structures and Algorithms (DSA) Repository
 First, let me introduce myself. I am a lazy person whose full-time hobby is to dream big, but I can't work on them because of my laziness. If a lazy but ambitious person can do it, why can't you?
 
