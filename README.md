@@ -45,6 +45,4 @@ To get started, clone this repository to your local machine:
 
 Then, explore the different directories for explanations, code examples, and visualizations. You can also contribute to the repository by adding new data structures or algorithms as you learn. As I continue to learn, I will regularly update this repository with new content and explanations.
 
-  
 
-Happy coding and learning! 🚀
